@@ -1,0 +1,6 @@
+[submodule "catch-game-web"]
+	path = catch-game-web
+	url = git@github.com:drlappies/catch-game-web.git
+[submodule "catch-game-service"]
+	path = catch-game-service
+	url = git@github.com:drlappies/catch-game-service.git
